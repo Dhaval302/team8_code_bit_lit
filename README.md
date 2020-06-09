@@ -1,1 +1,2 @@
-# team8_code_bit_lit
+# team id:8
+Participants: DHAVAL, BISMEET, SUMANT
